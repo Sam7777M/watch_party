@@ -6,7 +6,7 @@ Paste the youtube video link and enjoy sync operation
 
 To run the project
 
-backend : npm start
+backend : npm run dev
 
 frontend : npm run dev
 
