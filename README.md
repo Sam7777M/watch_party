@@ -7,3 +7,7 @@ Paste the youtube video link and enjoy sync operation
 To run the project
 backend : npm start
 frontend : npm run dev
+
+
+
+Video url of working project : https://drive.google.com/file/d/1JBgJPL68uD8jkdmq9k8tLMldEHGIx9fE/view?usp=sharing
